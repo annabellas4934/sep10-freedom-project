@@ -12,12 +12,9 @@ by **Annabella Shum**
 ## Engineering Design Process
 
 
-## Implications
-##### PROS
-* 
-##### CONS
-* 
+## Next Step
 
+As time will progress, I will srat doing deeper research on business, so far ive only done light research. Next I will note down my imformation so that i could have content to place inside my project.
 
 ## Blog
 Below you will find my blog about how I made my project.
