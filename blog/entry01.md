@@ -5,15 +5,12 @@ by **Annabella Shum**
 
 ## Why Did I Choose This Topic?
 
-##Links
+## Links
 
 ## Skills
 
 ## Engineering Design Process
 
-[Product]()
-
-[Presentation]()
 
 ## Implications
 ##### PROS
