@@ -1,9 +1,10 @@
-# Entry 1
+# Entry 1 : The Begining of My SEP 10 Freedom Project
 ##### 10-14-2025
 # SEP10 Freedom Project
 by **Annabella Shum**
 
 ## Why Did I Choose This Topic?
+  As a student of the [Software Engineering Program](https://hstatsep.github.io/) in [HSTAT](https://www.hstat.org/) I will create a year long project called a Freedom Project. For my project I chose the topic of business. My other options included finance and accounting. No matter what I would have picked, I'll still be studying about money. I specifically picked business due to it having the concepts of the other topics within itself. Now, the reason why I am so invested in the topic is because I'm highly interested in that field. I don't particularly find interest in physical work, having someone's life in my hands, and I'm not the best debater, so I wouldn't go into law, medical, or anything of the sort. With business I can go a multiple of directions. I am also influenced by my social media page and my parents. On social media I often see these small businesses that sell all sorts of products that they personally designed. My mother often likes to try many things that may help me pick a career such as asking me to sell my own t-shirts on amazon. Due to these reasons, I grew attracted towards handling money.
 
 ## Links
 
