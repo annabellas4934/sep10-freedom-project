@@ -15,13 +15,13 @@ by **Annabella Shum**
 ## Skills
 I learned skills such as...
 
-**Organization**
+**Organization** 
 When I first started, I was quite lost on how I should get started. So while creating this blog I opened up a google doc, to note down what i wanted to put into the blog without constantly having to change the code in github. This method was extremely useful because google docs has simple features that can resemble the final product in github, allowing me to figure out how I wanted to organize things.
 
-**Googling Information**
+**Googling Information** 
 Finding links for this blog demonstrates basic researching skills. When I google something I look up the topic as well as what I specifically want to find. Rather than searching business, I added certain words then looked it up so that I can get something more specific to what I wanted to find such as "myths about business", "what is business", "uses of technology in business", etc. this made researching quick and easy. When googling I also tend to search for the site that the ai overview stated from to get more background knowledge and confirm its reliability. Something that also confirms reliability is the type of site it is. I learned that if they have ads they most likely aren't reliable as it means they are sponsored. I also trust websites like ".gov" over ".com".
 
-**Time Management**
+**Time Management** 
 I was given a week to create this blog, yet I only started to work on it on Thursday. I was occupied by sports and my injury so I procrastinated for four days leading to more stress to be put on my shoulders for the weekends. To make my workload easier, I planned what I'd do each day. Friday I would study on what specifically I needed to include in the blog, saturday fill it with content, sunday finish the content and code it into github, and finally monday i will look it over and see if it satisfies the requirements. Doing this helped me also squeeze in personal time, as when I meet my goal for the day I would have time for my own hobbies. This helped me manage my time so I wouldn't be as stressed on the weekends without forcing myself to do all the work on the very last day.
 
 ## Next Step
