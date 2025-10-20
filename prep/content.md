@@ -10,7 +10,7 @@ Topic: **Business**
 Sources:
 * [Ring Central](https://www.ringcentral.com/us/en/blog/free-business-apps/#:~:text=Google%20Drive,access%20them%20from%20any%20device.)
 * [Square Up](https://squareup.com/us/en/the-bottom-line/operating-your-business/20-small-business-apps-you-need-to-know)
-
+## Communication
 ### RingEX
   <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VbGANsCpj0DLAy42Rwl5WAwv5MqVLy02LlkfuYNLWNk05-28Y-Vh7HLdjzjcFyBRGYY&usqp=CAU">  
   
@@ -21,8 +21,50 @@ Sources:
   <img src= https://sm.pcmag.com/pcmag_uk/review/s/slack/slack_syqz.jpg>
 * An app that provides various ways of comunication such as direct messages, group chats, and private channels. It's also easy to use and well organized.
 
-### aother
-  
+## File Storage
+### Evernote 
+  <img src= https://cdn.prod.website-files.com/674c0c42b14bdea2707e5bfc/6797c2a0e6b8b7114aecc86b_evernote%20main.png>
+
+* Evernote helps to organize documents, notes, images, and recordings in one place.
+* It’s especially handy for remote working, as you can jot down notes on the go.
+* Share notes with colleagues
+* Search for text in handwriting and images
+* Drag and drop key documents into a new note
+* Make notebooks accessible offline
+* Use on Windows, Apple, Android, and iOS
+
+### Google Drive
+<img src= https://www.bobcloud.net/wp-content/uploads/2023/10/Google-Drive-Logo-2023.png>
+
+* you can create and save files online
+* share them with team members
+* access them from any device.
+* It is available for iOS, but Android users will find it already integrated.
+* Generous free storage
+* Invite others to edit or download files
+* Offline access available
+* Link to other productivity tools
+
+### Microsoft OneDrive
+<img src= https://cloudmounter.net/wp-content/uploads/2024/12/onedrive-1024x576.jpg>
+
+* Edit files online without downloading
+* Share files with people who don’t have OneDrive
+* Integration with Outlook and Windows 11
+* Offline access available
+* Compatible with Android, iPhone, and iPad
+
+### Dropbox
+<img src= https://i.pcmag.com/imagery/reviews/01eqrJlwTzs4ACRmWo01fCt-45..v1668723864.jpg>
+
+allows you to sync files and folders across various platforms.
+
+* Dropbox Basic is the free tier, with just 2 GB of storage, but you can try the paid plans free for 30 days.1
+* No-download web browser option
+* Works on Windows, Mac, Android, and iOS
+* File sync and recovery
+* File previews and collaboration
+
 ## Part B: possible future technology
 * Idea
   * Detail
