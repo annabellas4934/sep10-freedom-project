@@ -57,13 +57,26 @@ Sources:
 ### Dropbox
 <img src= https://i.pcmag.com/imagery/reviews/01eqrJlwTzs4ACRmWo01fCt-45..v1668723864.jpg>
 
-allows you to sync files and folders across various platforms.
-
+* allows you to sync files and folders across various platforms.
 * Dropbox Basic is the free tier, with just 2 GB of storage, but you can try the paid plans free for 30 days.1
 * No-download web browser option
 * Works on Windows, Mac, Android, and iOS
 * File sync and recovery
 * File previews and collaboration
+
+## Payment Processing
+### Square
+<img src= "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTFXkgscXmy0L4Dt1BqoHkeWtKPZDdr5TdEK4vrt4yaLmm5Lp5CqjYT6vi21rwdoHrdqnc&usqp=CAU" >
+
+* This popular payment app is ideally suited to retail and restaurant businesses and is free to download
+* Square deducts at least 2.6 percent plus 10 cents from all transactions, and more for certain types.2
+* Free reader to swipe credit cards
+* Pay, tip, and sign right on your device
+* Invoice sending and tracking
+* Send receipts via email or text
+* Real-time sales data and history
+
+
 
 ## Part B: possible future technology
 * Idea
