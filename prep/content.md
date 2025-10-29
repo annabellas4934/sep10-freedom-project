@@ -5,7 +5,7 @@ Topic: **Business**
 * Text
 * Text
 
-# Part A: existing technology
+# Part A: Existing Technology
 ## Useful Apps
 Sources:
 * [Ring Central](https://www.ringcentral.com/us/en/blog/free-business-apps/#:~:text=Google%20Drive,access%20them%20from%20any%20device.)
@@ -77,10 +77,10 @@ Sources:
 * Real-time sales data and history
 
 # Part A Hardware
-
-https://fitsmallbusiness.com/office-gadgets/
-https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers
-https://fitsmallbusiness.com/office-gadgets/
+Sources:
+* [Fit small business](https://fitsmallbusiness.com/office-gadgets/)
+* [Monitask](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers)
+* [Fit small business](https://fitsmallbusiness.com/office-gadgets/)
 
 ## Part B: possible future technology
 * Idea
