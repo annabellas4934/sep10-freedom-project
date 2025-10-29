@@ -78,8 +78,8 @@ Sources:
 
 # Part A Hardware
 
-
-
+https://fitsmallbusiness.com/office-gadgets/
+https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers
 https://fitsmallbusiness.com/office-gadgets/
 
 ## Part B: possible future technology
