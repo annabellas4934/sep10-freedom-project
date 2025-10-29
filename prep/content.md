@@ -66,7 +66,7 @@ Sources:
 
 ## Payment Processing
 ### Square
-<img src= "https://encrypted-tbn0.gstatic.com/imagesq=tbn:ANd9GcTFXkgscXmy0L4Dt1BqoHkeWtKPZDdr5TdEK4vrt4yaLmm5Lp5CqjYT6vi21rwdoHrdqnc&usqp=CAU" >
+<img src= "https://www.extensionsforjoomla.com/images/stories/virtuemart/product/SquareUp_logo.png" >
 
 * This popular payment app is ideally suited to retail and restaurant businesses and is free to download
 * Square deducts at least 2.6 percent plus 10 cents from all transactions, and more for certain types.2
