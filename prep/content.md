@@ -76,7 +76,11 @@ Sources:
 * Send receipts via email or text
 * Real-time sales data and history
 
+# Part A Hardware
 
+
+
+https://fitsmallbusiness.com/office-gadgets/
 
 ## Part B: possible future technology
 * Idea
