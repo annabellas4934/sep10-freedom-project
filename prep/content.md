@@ -12,7 +12,7 @@ Sources:
 * [Square Up](https://squareup.com/us/en/the-bottom-line/operating-your-business/20-small-business-apps-you-need-to-know)
 ## Communication
 ### RingEX
-  <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4VbGANsCpj0DLAy42Rwl5WAwv5MqVLy02LlkfuYNLWNk05-28Y-Vh7HLdjzjcFyBRGYY&usqp=CAU">  
+<img width="1027" height="578" alt="image" src="https://github.com/user-attachments/assets/58d37c99-579b-48c1-9e11-fecfd3d54c63" />
   
   * RingCentral's AI-powered unified communications platform for businesses, which combines phone calls, video meetings, messaging, and combines call notes.  
 
