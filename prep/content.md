@@ -82,11 +82,51 @@ Sources:
 * [Monitask](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers)
 * [Desktime](https://desktime.com/blog/top-productivity-gadgets-and-products)
 
+## Desk
+### UPLIFT Standing Desk V2
+<img src= "https://m.media-amazon.com/images/I/61fBuSz17QL._AC_UF894,1000_QL80_.jpg" >
+
+Made from heavy-duty steel, these UPLIST standing desks are built to last and are stable enough to carry the weight of your desk gadgets. It features a one-touch adjustment — with one tap, you can adjust the desk height to your liking.
+
+## Note Taking
+###  Boogie Board Smart Scan Reusable Notebook
+<img src= "https://cdn11.bigcommerce.com/s-gyhhtwx4/images/stencil/760x760/products/5248/17879/SmartScanMainThumb__00274.1750920047.jpg?c=2">
+The Boogie Board is a portable digital note-taking device ideal for those who want to digitize their writing on the go. It features multiple templates, including grid lines and weekly planners, with a semi-transparent LCD that allows users to overlay their own templates. The device comes with a stylus but can also be used with fingers. It’s a great solution if you want the physical feeling of taking notes with a digital output.
+
+### Rocketbook Core Reusable Spiral Notebook
+<img src= "https://m.media-amazon.com/images/I/81+EcJUX1rL._AC_UF894,1000_QL80_.jpg" >
+
+Go digital with your note-taking activities and help reduce paper waste. This digital notebook comes in two sizes: letter (8.5×11 inches) and executive (6×8.8 inches). It’s easy to carry, and when you’re done, you can simply wipe the pages with a damp cloth to erase its content.
+
+### Ophaya smart pen
+<img src= "https://ophaya.com/cdn/shop/files/graphic-tablets-drawing-ophaya-smartpen-precise-artwork-note-taking-3lb-black-office-school-supply.jpg?v=1699070444" >
+
+With the Ophaya smart pen, you can easily jot down notes and, at the same time, search and organize them in just a few strokes. You can use it online or offline, giving you the option to continue work even when not connected to the internet.
+
+## Printing
+### Brother P-touch CUBE Plus
+<img src= "https://content.syndigo.com/asset/cf10dd96-82cc-4aba-a7f9-c482aba8b950/480.webp" >
+
+This lightweight and portable label printer connects to Apple and Android devices through Bluetooth. It offers pre-designed templates that you can use for your work or business or to organize your office belongings. This handy office gadget is ideal for hybrid office environments where employees typically share desks.
+
+### Brother PocketJet PJ883 portable printer
+<img src= "https://m.media-amazon.com/images/I/61+4G7mF9UL.jpg" >
+
+When people think of printers, they usually picture large, bulky machines. However, Brother POCKETJET 883 weighs just 600 grams and is about the size of a folding umbrella – it’s easy to carry anywhere.
+
+It’s a solid choice if your work requires a lot of traveling and printing, or if you simply prefer to keep your workspace minimalist using sleek productivity gadgets. It uses thermal paper, so there’s no need to worry about running out of ink. Just keep in mind the trade-off of the compact size: it’s monochrome only, so it’s perfect for documents but you probably wouldn’t want to print any photos with it.
+
+## Smartboard
+### AV 55-inch smartboard
+<img src= "https://m.media-amazon.com/images/I/71CE9wIIDCL.jpg" >
+
+This interactive smartboard enhances team collaboration with its ability to connect two office locations, supporting brainstorming sessions and virtual conferences. With the JAV smartboard, you can download multiple apps, either for work, education, or entertainment.
+
 ## Monitor stand
 ### WALI monitor mount
 <img src= https://fitsmallbusiness.com/wp-content/uploads/2024/09/unnamed-2025-03-21T161549.273.png>
 
-* 
+Designed for 17- to 34-inch screens, this adjustable single-monitor arm swivels up to 180 degrees, tilts up to 70 degrees, and rotates 360 degrees. There are two installation methods: through a clamp or a grommet base.
 
 
 
@@ -97,6 +137,8 @@ Sources:
 
 
 
+###
+<img src= "" >
 
 ## Part B: possible future technology
 * Idea
