@@ -95,6 +95,7 @@ Made from heavy-duty steel, these UPLIST standing desks are built to last and ar
 The Pomodoro technique is a time management method that involves breaking your workday into intervals of focused work sessions, typically 25 minutes, followed by short breaks. Ticktime is a device that helps you track and manage these intervals efficiently, helping individuals to manage their time effortlessly.
 
 HR professionals can use Ticktime to improve their productivity and time management skills. They can use the device to set goals and prioritize their workloads. By using Ticktime, HR professionals can accomplish more tasks within a shorter time frame, leading to increased efficiency and productivity. It also helps them monitor their progress and identify areas for improvement.
+https://www.ticktime.store/collections/featured-by-ticktime/products/ticktime
 
 ## Note Taking
 ###  Boogie Board Smart Scan Reusable Notebook
@@ -110,6 +111,11 @@ Go digital with your note-taking activities and help reduce paper waste. This di
 <img src= "https://ophaya.com/cdn/shop/files/graphic-tablets-drawing-ophaya-smartpen-precise-artwork-note-taking-3lb-black-office-school-supply.jpg?v=1699070444" >
 
 With the Ophaya smart pen, you can easily jot down notes and, at the same time, search and organize them in just a few strokes. You can use it online or offline, giving you the option to continue work even when not connected to the internet.
+
+### HUION Note 2-in-1 Digital Notebook Drawing Tablet With Battery-free Pen
+<img src= "https://www.huion.com/statics/hw/site/img/Note/img/wrapper2-ipd.png" >
+Huion Note has a durable spunlace leather protective cover and 50 pages of replaceable paper. PenTech 3.0 technology provides more stable stroke and curve performance to the 2nd gen Huion Scribo smart pen. Besides, the smart pen is equipped with plastic nibs and standard ballpoint refills for various writing demands.
+https://store.huion.com/products/huion-note
 
 ## Printing
 ### Brother P-touch CUBE Plus
