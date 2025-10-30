@@ -82,6 +82,22 @@ Sources:
 * [Monitask](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers)
 * [Fit small business](https://fitsmallbusiness.com/office-gadgets/)
 
+## Monitor stand
+### WALI monitor mount
+<img src= https://fitsmallbusiness.com/wp-content/uploads/2024/09/unnamed-2025-03-21T161549.273.png>
+
+* 
+
+
+
+
+
+
+
+
+
+
+
 ## Part B: possible future technology
 * Idea
   * Detail
