@@ -80,7 +80,7 @@ Sources:
 Sources:
 * [Fit small business](https://fitsmallbusiness.com/office-gadgets/)
 * [Monitask](https://www.monitask.com/en/blog/ten-must-have-gadgets-for-business-leaders-and-project-managers)
-* [Fit small business](https://fitsmallbusiness.com/office-gadgets/)
+* [Desktime](https://desktime.com/blog/top-productivity-gadgets-and-products)
 
 ## Monitor stand
 ### WALI monitor mount
