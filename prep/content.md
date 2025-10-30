@@ -88,6 +88,14 @@ Sources:
 
 Made from heavy-duty steel, these UPLIST standing desks are built to last and are stable enough to carry the weight of your desk gadgets. It features a one-touch adjustment — with one tap, you can adjust the desk height to your liking.
 
+## Timers
+### Ticktime Pomodoro Timer 
+<img src= "https://img.staticdj.com/fba16f2c17515b6b2feb4d799bbf62c4_750x.jpg">
+
+The Pomodoro technique is a time management method that involves breaking your workday into intervals of focused work sessions, typically 25 minutes, followed by short breaks. Ticktime is a device that helps you track and manage these intervals efficiently, helping individuals to manage their time effortlessly.
+
+HR professionals can use Ticktime to improve their productivity and time management skills. They can use the device to set goals and prioritize their workloads. By using Ticktime, HR professionals can accomplish more tasks within a shorter time frame, leading to increased efficiency and productivity. It also helps them monitor their progress and identify areas for improvement.
+
 ## Note Taking
 ###  Boogie Board Smart Scan Reusable Notebook
 <img src= "https://cdn11.bigcommerce.com/s-gyhhtwx4/images/stencil/760x760/products/5248/17879/SmartScanMainThumb__00274.1750920047.jpg?c=2">
