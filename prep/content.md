@@ -117,6 +117,20 @@ With the Ophaya smart pen, you can easily jot down notes and, at the same time, 
 Huion Note has a durable spunlace leather protective cover and 50 pages of replaceable paper. PenTech 3.0 technology provides more stable stroke and curve performance to the 2nd gen Huion Scribo smart pen. Besides, the smart pen is equipped with plastic nibs and standard ballpoint refills for various writing demands.
 https://store.huion.com/products/huion-note
 
+### Scanmarker Air
+<img src= "https://www.westminstertech.com/cdn/shop/products/PIC-PARTS_1024x1024.jpg?v=1664463656" >
+
+Save thousands of hours with the wireless pen scanner from Scanmarker.
+Instead of manually retyping endless texts from documents and books, the pen scanner copies your text in seconds, straight to your PC/Mac/tablet/phone in any program or apps like Word, Google Docs, Evernote (on desktop software), or our intuitive web based app at app.scanmarker.com
+Scan across a line of printed text and watch it appear instantly on the screen.
+Translate printed text instantly to over 100+ languages!
+Read any printed text- perfect for reading difficulties.
+Super accurate and fast multilingual OCR text scanner- ideal for students and professionals in the library, office, or on the go! 
+Edit, read aloud in real-time and translate any printed text.
+Portable, lightweight and convenient – connect easily to all your devices via Bluetooth (BLE dongle included for wireless connection on Windows).
+Powerful built-in battery rechargeable via USB.
+https://scanmarker.com/products/scanmarker-air-pen-scanner?srsltid=AfmBOooekq-p_gxsWSeu2FyKOiano9rIBxN_jI4uViJuGBk6S_PU_qOW
+
 ## Printing
 ### Brother P-touch CUBE Plus
 <img src= "https://content.syndigo.com/asset/cf10dd96-82cc-4aba-a7f9-c482aba8b950/480.webp" >
