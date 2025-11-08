@@ -4,7 +4,7 @@
 by **Annabella Shum**
 
 ## Researching Business Hardware and Software
-Text
+For the past month I have been researching what applications and gadgets people in businesses use. Of course when I googled "Business apps", I got the basics, google drive, canva, ect. They also showed other apps, but it wasn't clear what exactly these apps were used for. Same goes for when I looked up "Business gadgets", where I found more obvious stuff such as computers, keyboards, and different types of mice. I was encouraged by the teacher to find something more unique and more unknown to a general audience. 
 
 ## Engineering Design Process
 
