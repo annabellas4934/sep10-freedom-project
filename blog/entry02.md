@@ -28,8 +28,6 @@ While researching, as I previously mentioned, if you google business gadgets and
 ### Problem Solving: 
 To gather the requirements Mr. Mueller set for us while researching gadgets. I realized I would have to dig deeper to find more unique hardware as when I googled I simply got computers, laptops and mice. To see what other things people use I referred back to websites which gave me some new particular information which I had not known and found pretty interesting. So this way I got the requirements whilst also learning more about my topic and the resources out there.
 
-## Next Step
-
 
 [Previous](entry01.md) | [Next](entry03.md)
 
