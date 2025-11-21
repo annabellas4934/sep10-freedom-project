@@ -103,6 +103,7 @@ It’s a solid choice if your work requires a lot of traveling and printing, or 
 
 ### Slack
   <img src= https://sm.pcmag.com/pcmag_uk/review/s/slack/slack_syqz.jpg>
+  
   * An app that provides various ways of communication such as direct messages, group chats, and private channels. It's also easy to use and well organized.
 
 
