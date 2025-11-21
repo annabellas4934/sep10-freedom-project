@@ -17,13 +17,14 @@ Topic: **Business**
 ### Evernote 
   <img src= https://cdn.prod.website-files.com/674c0c42b14bdea2707e5bfc/6797c2a0e6b8b7114aecc86b_evernote%20main.png>
 
-* Evernote helps to organize documents, notes, images, and recordings in one place.
-* It’s especially handy for remote working, as you can jot down notes on the go.
-* Share notes with colleagues
-* Search for text in handwriting and images
-* Drag and drop key documents into a new note
-* Make notebooks accessible offline
-* Use on Windows, Apple, Android, and iOS
+* It can help to organize documents, notes, images, and recordings in one place.
+* It can be used for remote working, as you can take down notes on the go.
+* Makes it easy to share notes with colleagues
+* Searches for text in certain handwriting and images
+* Drag and drop feature that can organize key documents into a new note
+* With this it makes notebooks accessible offline
+* accessible on many platforms like Windows, Apple, Android, and iOS
+
 ### Google Drive
 <img src= https://www.bobcloud.net/wp-content/uploads/2023/10/Google-Drive-Logo-2023.png>
 
