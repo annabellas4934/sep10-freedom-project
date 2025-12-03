@@ -126,15 +126,19 @@ It’s a solid choice if your work requires a lot of traveling and printing, or 
 
 ## Part B: possible future technology
 ### Software:
-* A free app or website
+* Shopbizz
+  * A free app or website
   * gives a full tutorial about how to start a business
-  * provides tips via ai
+  * provides tips via ai and peer comentary and advice
   * A chat feature that gives in person tips
   * Templates for shop websites
 
 ### Hardware
-* A chair with a built in desk that has a screen that's adjustable
+* adjustable screen chair
+  * A chair with a built in desk that has a screen that's adjustable
   * For those who struggle with posture and comfort
   * Similar to desks with connected seats used in school
   * One arm rest will be slightly larger for a mouse to lay on 
   * Leg rests (like those dentist chairs)
+  * not very large so it wont take up space
+  * the screen is projected to keep the chair 
