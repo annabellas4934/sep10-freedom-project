@@ -3,7 +3,7 @@
 # SEP10 Freedom Project
 by **Annabella Shum**
 ## Content:
-After researching the technology we currently have, I thought of ideas for new innovations that would be beneficial for people in business. I had spent some time in class struggling to think of creative inventions that seemed interesting. But then I took some time to think and inspiration from upper classman's projects and came up with one software idea and one hardware. And an app and a new design for a chair.
+After researching the technology we currently have, I organized the ideas by a generic section, whether they helped with notetaking, office comfort, payment processing, and communication. Then I thought of ideas for new innovations that would be beneficial for people in business. I had spent some time in class struggling to think of creative inventions that seemed interesting. But then I took some time to think and inspiration from upper classman's projects and came up with one software idea and one hardware. And an app and a new design for a chair.
 
 ## Links: 
 When I was confused about how I should start concepting ideas on future inventions, I opened a source that was provided by Mr. Mueller, ["previous projects"](https://docs.google.com/spreadsheets/d/1A9c3MeOK8fK8ylRY06DXC-QLbdJjKKj4lvDp-UHlbHU/edit?gid=0#gid=0)which helped inspire me. I randomly picked one of the many projects offered, and I had landed on [Xinyang's project](https://xinyangl5722.github.io/sep10-freedom-project/) which made me realized that I could separate my ideas by focusing on either software or hardware. Thinking strictly about software helped me think of an app idea, same going for hardware where it helped be something physical.
