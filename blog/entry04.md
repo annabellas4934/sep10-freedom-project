@@ -1,7 +1,14 @@
-# Entry 4
-##### X/X/XX
+# Entry 4 : Choosing a Tool
+##### 03-16-2026
+# SEP10 Freedom Project
+by **Annabella Shum**
+## Content
 
-Text
+
+
+
+
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
