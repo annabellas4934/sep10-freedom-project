@@ -8,8 +8,8 @@
 * I didn't do much for Bulma but relook over the hard concepts I didn't understand like the dark mode which I am still slightly confused about.
 * Bootstrap I also practiced working on the concepts by looking over the site and the different options and the patterns of how the set up the code.
 
-### X/X/XX:
-* Text
+### 03/23/226:
+* ohhhh the darkmode needs to be linked to the css file for bulma.
 
 
 <!--
