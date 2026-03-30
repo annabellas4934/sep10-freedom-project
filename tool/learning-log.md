@@ -13,7 +13,7 @@
 
 ### 03/30/26
 * instead oh a navbar from  bootstrap i could use breadcrumb from bulma. its smaller and has come custumizable stuff.
-
+https://bulma.io/documentation/components/breadcrumb/
 
 <!--
 * Links you used today (websites, videos, etc)
