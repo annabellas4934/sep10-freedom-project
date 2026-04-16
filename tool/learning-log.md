@@ -1,7 +1,6 @@
 # Tool Learning Log
 
 ## Tool: **Bulma and Bootstrap**
-`
 ---
 
 ### 03/23/26:
@@ -14,7 +13,16 @@
 ### 03/30/26
 * instead oh a navbar from  bootstrap i could use breadcrumb from bulma. its smaller and has come custumizable stuff.
 https://bulma.io/documentation/components/breadcrumb/
+---
+### 04/15/26
+* to get started on my plan to make the bulma only webpage(if i have time ill put in some bootstrap too) I copied and pasted the base code for the components I want from the following pages
+    * [breadcrumb](https://bulma.io/documentation/components/breadcrumb/)
+    * [card](https://bulma.io/documentation/components/card/)
+    * [modal](https://bulma.io/documentation/components/modal/)
+    * [pagination](https://bulma.io/documentation/components/pagination/)
 
+### 04/16/26
+* In breadcrumb the allignment is in the class `class="breadcrumb is-centered"`
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
