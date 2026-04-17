@@ -23,6 +23,7 @@ https://bulma.io/documentation/components/breadcrumb/
 
 ### 04/16/26
 * In breadcrumb the allignment is in the class `class="breadcrumb is-centered"`
+* I'm having issues with the image sizings, i think that it's only going to resize to preset sizes.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
