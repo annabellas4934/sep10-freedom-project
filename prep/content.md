@@ -14,7 +14,7 @@ Topic: **Business**
 * [Desktime](https://desktime.com/blog/top-productivity-gadgets-and-products)
 
 ## Information Gathering
-### Evernote 
+### Evernote
   <img src= https://cdn.prod.website-files.com/674c0c42b14bdea2707e5bfc/6797c2a0e6b8b7114aecc86b_evernote%20main.png>
 
 * It can help to organize documents, notes, images, and recordings in one place.
@@ -26,7 +26,7 @@ Topic: **Business**
 * accessible on many platforms like Windows, Apple, Android, and iOS
 
 ### Google Drive
-<img src= https://www.bobcloud.net/wp-content/uploads/2023/10/Google-Drive-Logo-2023.png>
+as
 
 * you can create and save files online
 * share them with team members
@@ -62,7 +62,7 @@ Topic: **Business**
 Made from heavy-duty steel, these UPLIST standing desks are built to last and are stable enough to carry the weight of your desk gadgets. It features a one-touch adjustment — with one tap, you can adjust the desk height to your liking.
 
 ## Timers
-### Ticktime Pomodoro Timer 
+### Ticktime Pomodoro Timer
 <img src= "https://img.staticdj.com/fba16f2c17515b6b2feb4d799bbf62c4_750x.jpg">
 
 The Pomodoro technique is a time management method that involves breaking your workday into intervals of focused work sessions, typically 25 minutes, followed by short breaks. Ticktime is a device that helps you track and manage these intervals efficiently, helping individuals to manage their time effortlessly.
@@ -80,7 +80,7 @@ This lightweight and portable label printer connects to Apple and Android device
 
 When people think of printers, they usually picture large, bulky machines. However, Brother POCKETJET 883 weighs just 600 grams and is about the size of a folding umbrella – it’s easy to carry anywhere.
 
-It’s a solid choice if your work requires a lot of traveling and printing, or if you simply prefer to keep your workspace minimalist using sleek productivity gadgets. It uses thermal paper, so there’s no need to worry about running out of ink. Just keep in mind the trade-off of the compact 
+It’s a solid choice if your work requires a lot of traveling and printing, or if you simply prefer to keep your workspace minimalist using sleek productivity gadgets. It uses thermal paper, so there’s no need to worry about running out of ink. Just keep in mind the trade-off of the compact
 
 ## Payment Processing
 ### Square
@@ -94,17 +94,17 @@ It’s a solid choice if your work requires a lot of traveling and printing, or 
 * Send receipts via email or text
 * Real-time sales data and history
 
-  
+
 ## Communication
 ### RingEX
 <img width="1027" height="578" alt="image" src="https://github.com/user-attachments/assets/58d37c99-579b-48c1-9e11-fecfd3d54c63" />
-  
-  * RingCentral's AI-powered unified communications platform for businesses, which combines phone calls, video meetings, messaging, and combines call notes.  
+
+  * RingCentral's AI-powered unified communications platform for businesses, which combines phone calls, video meetings, messaging, and combines call notes.
 
 
 ### Slack
   <img src= https://sm.pcmag.com/pcmag_uk/review/s/slack/slack_syqz.jpg>
-  
+
   * An app that provides various ways of communication such as direct messages, group chats, and private channels. It's also easy to use and well organized.
 
 
@@ -138,7 +138,7 @@ It’s a solid choice if your work requires a lot of traveling and printing, or 
   * A chair with a built in desk that has a screen that's adjustable
   * For those who struggle with posture and comfort
   * Similar to desks with connected seats used in school
-  * One arm rest will be slightly larger for a mouse to lay on 
+  * One arm rest will be slightly larger for a mouse to lay on
   * Leg rests (like those dentist chairs)
   * not very large so it wont take up space
-  * the screen is projected to keep the chair 
+  * the screen is projected to keep the chair
