@@ -12,8 +12,23 @@
 * `#3B2B29`
 
 ## Fonts
-* [Text](URL)
-
+``` css
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+```
+`<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sanchez:ital@0;1&family=Science+Gothic:wght@100..900&display=swap" rel="stylesheet">`
+* heading
+  * Size: 38
+  * Italic: 0
+  * Weight: 566
+* normal text
+  * Size: 38
+  * Italic: 0
+  * Weight: 566
 ## Timeline
 
 #### MVP
