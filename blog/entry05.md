@@ -8,8 +8,8 @@ Now that we have all the information we need for the project, we need to start s
 This is an example of me attempting to use a card format that bulma offers. I was adjusting the image size to see if I can control how large it was in the card to which it was unsuccessful. What did work was using the given dimensions Bulma gives you for images.
 
 ## Skills:
-Embracing failure: when we were concluding learning our tool I wanted to make a website using 4 Bulma components, thinking it would be easy and similar to using bootstrap. I was mistaken and found that what I wanted to learn was much more difficult to achieve than I thought. I wasn't able to create a website with Bulma, but that wasn't the focus, it was a goal to help me learn Bulma which it accomplished.
-Logical reasoning: To learn Bulma it required some logic to see what div and class did what for the component. Logic also helped me come to the conclusion that with Bulma, there are limitations such as images. If I used a ratio that was not on the website it would not work to resize the image.
+* Embracing failure: when we were concluding learning our tool I wanted to make a website using 4 Bulma components, thinking it would be easy and similar to using bootstrap. I was mistaken and found that what I wanted to learn was much more difficult to achieve than I thought. I wasn't able to create a website with Bulma, but that wasn't the focus, it was a goal to help me learn Bulma which it accomplished.
+* Logical reasoning: To learn Bulma it required some logic to see what div and class did what for the component. Logic also helped me come to the conclusion that with Bulma, there are limitations such as images. If I used a ratio that was not on the website it would not work to resize the image.
 
 ## Sources:
    * [breadcrumb](https://bulma.io/documentation/components/breadcrumb/)
