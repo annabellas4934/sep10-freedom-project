@@ -1,0 +1,27 @@
+#carouselOne{
+    width: 750px;
+    text-align: center;
+    margin: auto;
+    color: #EB6EB9;
+}
+#carouseltwo{
+    width: 750px;
+    text-align: center;
+    margin: auto;
+    color: #EB6EB9;
+}
+#carouselthree{
+    width: 750px;
+    text-align: center;
+    margin: auto;
+    color: #EB6EB9;
+}
+#carouselfour{
+    width: 750px;
+    text-align: center;
+    margin: auto;
+    color: #EB6EB9;
+}
+.carouseltext{
+    color: black;
+}
