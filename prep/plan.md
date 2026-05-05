@@ -53,7 +53,7 @@
 
 
 [link to project](https://annabellas4934.github.io/sep10-freedom-project/index.html)
-<!-- DO NOT USE THIS YET
+
 
 #### Peer Feedback
 
@@ -65,4 +65,4 @@
 |  |  |  |
 |  |  |  |
 
--->
+
