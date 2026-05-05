@@ -60,7 +60,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | Franco | I like the style of your css. I like the images because they go well with the white background. I like the clickable buttons at the bottom, very fun to use. | have you considered using a navbar from bootstraps in order to put your links there. |
-|  |  |  |
+| Emily | I like how you seperated your overview and sources with a rounded border | You should try to change your carosel so the image size could be the same every time it goes to a new image |
 |  |  |  |
 |  |  |  |
 |  |  |  |
