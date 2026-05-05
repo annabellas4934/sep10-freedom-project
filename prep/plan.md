@@ -52,14 +52,14 @@
 
 
 
-
+[link to project](https://annabellas4934.github.io/sep10-freedom-project/index.html)
 <!-- DO NOT USE THIS YET
 
 #### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Franco | I like the style of your css. I like the images because they go well with the white background. I like the clickable buttons at the bottom, very fun to use. | have you considered using a navbar from bootstraps in order to put your links there. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
