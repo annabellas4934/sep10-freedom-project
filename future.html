@@ -13,7 +13,69 @@
             integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
         <style>
             /* CSS */
-
+            #navbarBasicExample{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 530;
+                font-style: normal;
+                font-size: 50px;
+                color: #5e1914;
+            }
+            #heading{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 560;
+                font-style: normal;
+                font-size: 40px;
+                color: #5e1914;
+                text-align: center;
+                justify-content: center;
+            }
+            .subheading{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 560;
+                font-style: normal;
+                font-size: 37px;
+                color: #5e1914;
+                text-align: center;
+                justify-content: center;
+            }
+            .subsubheading{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 560;
+                font-style: normal;
+                font-size: 34px;
+                color: #5e1914;
+                justify-content: center;
+            }
+            .subsubsubheading{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 560;
+                font-style: normal;
+                font-size: 30px;
+                color: #5e1914;
+                justify-content: center;
+            }
+            #content{
+                font-family: "Montserrat", sans-serif;
+                font-optical-sizing: auto;
+                font-weight: 510;
+                font-style: normal;
+                font-size: 25px;
+                color: #a36f63;
+            }
+            body {
+                background-color: #f3eceaff;
+            }
+            .textcontent{
+                background-color: #ecdedaff;
+            }
+            #businesscard{
+                margin: 50px 80px 20px 80px;
+            }
         </style>
 
         <title>Annabella's Freedom Project</title>
@@ -21,7 +83,7 @@
     <body>
         <!-- HTML -->
 
-        <div id="navbarBasicExample" class="navbar-menu">
+        <div id="navbarBasicExample" class="navbar-menu textcontent">
             <div class="navbar-start">
             <a href="index.html" class="navbar-item">
                 Home
@@ -34,26 +96,26 @@
                 Future inovations
             </a>
             </div>
-            </div>
         </div>
         </nav>
 
 
-
-        <h1>
+        <br>
+        <h1 id="heading">
             Possible Future Inovations
         </h1>
+        <br>
 
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <div class="card">
+                        <div class="card textcontent">
                             <div class="card-content">
                                 <div class="content">
-                                    <h1>
+                                    <h1 id="heading">
                                     Portable mini register
                                     </h1>
-                                    <p>
+                                    <p id="content">
                                         a register which calculates what you owe, contains the cash, and have a online/card payment method all together. This would be most useful with small business owners which goes out to public spaces to sell and advertise their products.
                                     </p>
                                 </div>
@@ -62,21 +124,21 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <div class="card-content">
+                            <div class="card-content textcontent">
                                 <div class="content">
-                                    <h1>
+                                    <h1 id="heading">
                                     A free app or website
                                     </h1>
-                                    <li>
+                                    <li id="content">
                                         gives a full tutorial about how to start a business
                                     </li>
-                                    <li>
+                                    <li id="content">
                                         provides tips via ai
                                     </li>
-                                    <li>
+                                    <li id="content">
                                         A chat feature that gives in person tips
                                     </li>
-                                    <li>
+                                    <li id="content">
                                         Templates for shop websites
                                     </li>
                                 </div>
@@ -87,22 +149,27 @@
             </div>
 
 
-
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <div>
             <nav class="pagination" role="navigation" aria-label="pagination">
-            <a href="present.html"class="pagination-previous" title="This is the first page"
+            <a id="content" href="present.html"class="pagination-previous textcontent" title="This is the first page"
                 >Previous</a
             >
-            <a class="pagination-next is-disabled">Next page</a>
+            <a id="content" class="pagination-next is-disabled">Next page</a>
             <ul class="pagination-list">
                 <li>
-                <a href="index.html" class="pagination-link" aria-label="Goto page 2">1</a>
+                <a id="content" href="index.html" class="pagination-link textcontent" aria-label="Goto page 2">1</a>
                 </li>
                 <li>
-                <a href="present.html" class="pagination-link" aria-label="Goto page 3">2</a>
+                <a id="content" href="present.html" class="pagination-link textcontent" aria-label="Goto page 3">2</a>
                 </li>
                 <li>
                 <a
+                    id="content"
                     class="pagination-link is-current"
                     aria-label="Page 1"
                     aria-current="page"
@@ -113,6 +180,11 @@
             </ul>
             </nav>
         </div>
+        <br>
+        <br>
+        <br>
+
+
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
