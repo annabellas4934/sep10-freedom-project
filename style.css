@@ -25,3 +25,36 @@
 .carouseltext{
     color: black;
 }
+#navbarBasicExample{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 530;
+    font-style: normal;
+    font-size: 50px;
+    color: #5e1914;
+}
+#heading{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 560;
+    font-style: normal;
+    font-size: 40px;
+    color: #5e1914;
+}
+#content{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 510;
+    font-style: normal;
+    font-size: 25px;
+    color: #a36f63;
+}
+body {
+    background-color: #f3eceaff;
+}
+.textcontent{
+    background-color: #ecdedaff;
+}
+#businesscard{
+    margin: 50px 80px 20px 80px;
+}
