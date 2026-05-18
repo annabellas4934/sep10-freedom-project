@@ -1,16 +1,25 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I love money don't you? 
+then I'll go into how thid help be decideon business.
 
 ## Product
-* 
+* Gif of  page before css was added(mvp)
+* Gif of present run through the code
+* link in an img that looks like a cinema sign
+* read slightly what the conent in the project has
 
 ## Process
-* 
+* show how mvp looked like, which had very minimun css and an incorrect format.
+* open ide and picode(i usd picode to better see my code) and show the code
+* show the code snippets of how i used Bulma and show why I picked bulma over bootstrap for that in specific
 
 ## Conclusion
-* 
+* "Was my presentation great or was my presentation GREAT"
+* give a breif speech about mystruggles and what i learned
+  * i learned how to accept the mvp even though it doesn't look as what i had in mind.
+  * time management: projectplus theater gave me little time to work
 
 <!-- EXAMPLE
 
