@@ -16,13 +16,17 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **B
 
 ## Implications
 ##### PROS
-*
+* Website
+  * People can learn about the technology in business in a website where all the information is gathered.
+* Future innovations
+  * Useful for people in small businesses
+  * 
 ##### CONS
 *
 
 
 ## Blog
-Below you will find my blog about how I made my project.
+Below you will find my blogs about how I made my project.
 
 * [Entry 1](blog/entry01.md)
 * [Entry 2](blog/entry02.md)
