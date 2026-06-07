@@ -18,11 +18,17 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **B
 ##### PROS
 * Website
   * People can learn about the technology in business in a website where all the information is gathered.
+  * The information is written in a big font to be easier to see
 * Future innovations
   * Useful for people in small businesses
-  * 
+  * Works well for people independent
 ##### CONS
-*
+* Website
+ * The font is not adjustable to screen size
+ * It is not necessarily useful for learning about business
+* Future innovations
+ * It may not be very useful forbigger companies
+ * the protable register may not be able to cary a significant amount of cash
 
 
 ## Blog
@@ -35,6 +41,3 @@ Below you will find my blogs about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
