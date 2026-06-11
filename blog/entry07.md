@@ -11,7 +11,7 @@ The feedback I received was to give more time to demonstrate the website because
 During the showcase in the cafeteria, I mostly struggled with fluidity, most likely due to nerves. I was not able to connect my points clearly due to me rushing through my presentation. When I rushed I skipped most of the things I researched, which made it seem like I didn't know any of my content.
 
 If you would like to see my project, [click here for the link.](https://annabellas4934.github.io/sep10-freedom-project/index.html)
-[Click here for my presentation plan.](prep/presentation.md)
+[Click here for my presentation plan.](../prep/presentation.md)
 ## Skills:
 * Improvising: My presentation did not go as planned so I improvised and was able to still present. Luckily I added alternative ways for demonstrating my website so the improvising was not too difficult.
 
