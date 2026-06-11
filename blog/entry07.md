@@ -8,8 +8,9 @@ In my presentation I included a simple hook asking "Do you like money?", and in 
 
 The feedback I received was to give more time to demonstrate the website because when I was showing my website I quickly went page to page, not really showing the content that well. I also was recommended to explain my tool more. In my presentation I only added lines of code and showed what it looked like.
 
+During the showcase in the cafeteria, I mostly struggled with fluidity, most likely due to nerves. I was not able to connect my points clearly due to me rushing through my presentation. When I rushed I skipped most of the things I researched, which made it seem like I didn't know any of my content.
 
-
+If you would like to see my project, [click here for the link.](https://annabellas4934.github.io/sep10-freedom-project/index.html)
 ## Skills:
 * Improvising: My presentation did not go as planned so I improvised and was able to still present. Luckily I added alternative ways for demonstrating my website so the improvising was not too difficult.
 
